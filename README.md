@@ -1,10 +1,3 @@
-
-<br/>
-<p align="center">
-<img src="./images/randomNft/pug.png" width="225" alt="NFT Pug">
-</p>
-<br/>
-
 We go through creating A Basic NFT
 
 
